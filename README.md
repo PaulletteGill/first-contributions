@@ -2,9 +2,7 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
-
-#### If you don't have git on your machine, [install it](https://github.com/codeKenya-swe/curriculum/blob/main/01-git-and-github/01-installing-git.md).
+#### If you don't have git on your machine, [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 ## Fork this repository
 
@@ -127,27 +125,3 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
-
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
-
-If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
-
-### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
-
-## Tutorials Using Other Tools
-
-- [GitHub Desktop](docs/gui-tool-tutorials/github-desktop-tutorial.md)
-- [Visual Studio 2017](docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)
-- [GitKraken](docs/gui-tool-tutorials/gitkraken-tutorial.md)
-- [Visual Studio Code](docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)
-- [Atlassian Sourcetree](docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)
-- [IntelliJ IDEA](docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)
-
-<p>This project is supported by:</p>
-<p>
-  <a href="https://www.digitalocean.com/">
-    DigitalOcean
-  </a>
-</p>

@@ -12,4 +12,4 @@
 - [Nyenzo](https://github.com/Nyenzo) - My first contribution!
 - [Newton](https://github.com/SKNYYYYYYYY) - My First Contribution!
 - [LynnMwende-Kamau](https://github.com/LynnMwende-Kamau) - My first contribution!
-
+- [Trevor](https://github.com/T-Stevan) - My first contribution!

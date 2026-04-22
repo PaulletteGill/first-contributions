@@ -1,9 +1,22 @@
 # Contributor
-
 - [Polycarp](https://github.com/carpcode-debug)  -My first contribution!
+-shawn
+- [NicholasMusee](https://github.com/nichomusee) -My first contribution!
+-FreddyM-254
+- Cathy
+- [Polycarp] (https://github.com/carpcode-debug)  -My first contribution!
 - [lLewis](https://github.com/le-w-ieee) -My first contribution!
 - [Samuel](https://github.com/Sam-Sir254)- My first contribution!
 -ugyffftc
 - [Tony Muriuki](https://github.com/Tony-Muriuki)-My First contribution!!!
 - [Adams041](https://github.com/Adams041/Adams041) -My first contributions here!!!
 - [Nyenzo](https://github.com/Nyenzo) - My first contribution!
+- [Newton](https://github.com/SKNYYYYYYYY) - My First Contribution!
+- [LynnMwende-Kamau](https://github.com/LynnMwende-Kamau) - My first contribution
+- [Victor](https://github.com/impalainn) - My First contribution!
+- [Newton](https://github.com/SKNYYYYYYYY) - My First Contribution!
+- [LynnMwende-Kamau](https://github.com/LynnMwende-Kamau) - My first contribution!
+- [Nyenzo](https://github.com/Nyenzo) - My first contribution!
+- [Newton](https://github.com/SKNYYYYYYYY) - My First Contribution!
+- [LynnMwende-Kamau](https://github.com/LynnMwende-Kamau) - My first contribution!
+- [Trevor](https://github.com/T-Stevan) - My first contribution!
